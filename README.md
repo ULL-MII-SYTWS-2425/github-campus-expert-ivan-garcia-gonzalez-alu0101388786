@@ -25,6 +25,9 @@ Me suscribo al newsletter de GitHub internships
 GitHub CLI descargado en maquina local:
 ![Cli local](images/imageCliLocal.png)
 
+GitHub CLU instalado en codespace:
+![Cli codespace](images/imageCliCodespace.png)
+
 
 ### Finalización de la práctica
 Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
